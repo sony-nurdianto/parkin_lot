@@ -1,0 +1,19 @@
+{
+  "name": "parking_lot",
+  "version": "1.0.0",
+  "description": "test from Bank Jago",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sony-nurdianto/parkin_lot.git"
+  },
+  "author": "sony nurdianto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sony-nurdianto/parkin_lot/issues"
+  },
+  "homepage": "https://github.com/sony-nurdianto/parkin_lot#readme"
+}
